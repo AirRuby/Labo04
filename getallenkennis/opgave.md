@@ -8,6 +8,7 @@ p2 = 1110  -> 2
 p4 = 0110  -> 0
 
 H3  -> 1 + 2 = 3
+<<<<<<< HEAD
 bit 3 is fout -> moet 0 zijn
 
 
@@ -16,3 +17,6 @@ bit 3 is fout -> moet 0 zijn
  1000 0100 0101 1111  absolut
  1000 0100 0101 1100   +
  1000 0100 0101 1101   -
+=======
+bit 3 is fout -> moet 0 zijn
+>>>>>>> hamming-opgave
